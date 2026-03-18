@@ -189,6 +189,7 @@ h2 {
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s;
+    text-align: center;
 }
 
 .project:hover {
@@ -199,10 +200,6 @@ h2 {
     margin-bottom: 1rem;
     color: var(--secondary-color);
     text-align: center;
-}
-
-.project p {
-  text-align: center;
 }
 
 .btn {
