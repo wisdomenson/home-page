@@ -82,7 +82,7 @@ nav {
 .hero {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     padding: 100px 2rem 2rem;
     max-width: 1200px;
     margin: 0 auto;
